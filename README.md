@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria (@mariashev)
-- 🎓 I am a Boston University student with Senior standing working towards a dual degree in Biomedical Engineering and Computer Science
-- 👀 I’m interested in Artificial Intelligence and Bionics
+- 🎓 I recently graduated Boston University with a BS in Biomedical Engineering and a BA Computer Science and am currently pursuing a Masters degree in Artificial Intelligence.
+- 👀 I’m interested in Machine learning and Medical Applications of AI.
 - 📚 I'm currently learning about Black-Box Adversarial Attacks Against Deep Neural Networks
 - 📫 You can reach me via email at maria410@bu.edu
